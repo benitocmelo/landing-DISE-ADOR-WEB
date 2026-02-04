@@ -25,10 +25,10 @@ const Comparator: React.FC = () => {
       <div className="max-w-5xl mx-auto px-4">
         <div className="text-center mb-10 md:mb-12">
           <h2 className="text-2xl md:text-4xl font-bold mb-4 text-gray-900 dark:text-white">
-            ¿Por qué trabajar conmigo?
+            ¿Por qué elegirnos?
           </h2>
           <p className="text-gray-600 dark:text-gray-400 max-w-2xl mx-auto text-sm md:text-lg">
-            Comparativa de inversión: Servicios por separado vs. Mi propuesta integral.
+            Comparativa de inversión: Servicios por separado vs. Nuestra propuesta integral.
           </p>
         </div>
 
@@ -62,9 +62,9 @@ const Comparator: React.FC = () => {
              <div className="relative z-10 text-center">
                 <div className="flex items-center justify-center gap-2 mb-2">
                   <CheckCircle2 className="w-6 h-6 text-blue-200" />
-                  <span className="font-bold text-lg uppercase tracking-wider">Mi Propuesta</span>
+                  <span className="font-bold text-lg uppercase tracking-wider">Nuestra Propuesta</span>
                 </div>
-                <p className="text-blue-100 text-xs mb-4">Todo incluido en un solo ecosistema</p>
+                <p className="text-blue-100 text-xs mb-4">Todo el ecosistema Juan MKT</p>
                 <div className="text-4xl font-extrabold mb-2">$180 - $350 USD</div>
                 <div className="text-xs text-blue-200 bg-blue-700/50 inline-block px-3 py-1 rounded-full">
                   ¡Ahorro garantizado!
@@ -101,7 +101,7 @@ const Comparator: React.FC = () => {
                   <div className="flex items-center gap-3">
                     <CheckCircle2 className="w-8 h-8 text-blue-200" />
                     <div>
-                      <div className="font-bold text-xl uppercase">Mi Propuesta</div>
+                      <div className="font-bold text-xl uppercase">Nuestra Propuesta</div>
                       <div className="text-blue-100 text-sm">Todo incluido en un solo lugar</div>
                     </div>
                   </div>
@@ -115,7 +115,7 @@ const Comparator: React.FC = () => {
         </div>
         
         <p className="mt-8 text-center text-xs text-gray-500 dark:text-gray-400 italic px-4">
-          * Al trabajar conmigo, aseguras coherencia total en tu marca desde el día 1.
+          * Al trabajar con Juan MKT, aseguras coherencia total en tu marca desde el día 1.
         </p>
       </div>
     </section>

@@ -30,7 +30,7 @@ const FAQ: React.FC = () => {
   const faqs = [
     {
       question: "¿Por qué cobrar mantenimiento mensual?",
-      answer: "El mundo digital cambia rápido. El mantenimiento garantiza que tu sitio esté siempre seguro, que el hosting (en el caso de la Landing) esté activo, y que tengas a alguien a quien acudir si algo falla o necesitas un cambio pequeño."
+      answer: "El mundo digital cambia rápido. El mantenimiento garantiza que tu sitio esté siempre seguro, que el hosting (en el caso de la Landing) esté activo, y que tengas a nuestro equipo disponible si algo falla o necesitas un cambio pequeño."
     },
     {
       question: "¿Puedo tener ambas opciones?",
@@ -38,10 +38,10 @@ const FAQ: React.FC = () => {
     },
     {
       question: "¿Necesito comprar el dominio?",
-      answer: "Sí, el dominio es tuyo y debe estar a tu nombre por seguridad de tu marca. Pero no te preocupes, yo te guío paso a paso en cómo comprarlo (cuesta aprox $10-$15 USD al año)."
+      answer: "Sí, el dominio es tuyo y debe estar a tu nombre por seguridad de tu marca. Pero no te preocupes, en Juan MKT te guiamos paso a paso en cómo comprarlo (cuesta aprox $10-$15 USD al año)."
     },
     {
-      question: "¿Cuánto tiempo tardas en entregar?",
+      question: "¿Cuánto tiempo tardan en entregar?",
       answer: "Para la Landing Page 'Producto Ganador', el tiempo estimado es de 3 a 5 días hábiles una vez tengamos la información. Para la tienda Shopify completa, suele tomar entre 10 y 15 días hábiles."
     }
   ];
@@ -54,7 +54,7 @@ const FAQ: React.FC = () => {
                 <HelpCircle className="w-6 h-6 text-blue-600 dark:text-blue-400" />
             </div>
           <h2 className="text-3xl font-bold mb-4 text-gray-900 dark:text-white">Preguntas Frecuentes</h2>
-          <p className="text-gray-600 dark:text-gray-400">Resuelvo tus dudas antes de empezar.</p>
+          <p className="text-gray-600 dark:text-gray-400">Resolvemos tus dudas antes de empezar.</p>
         </div>
         
         <div className="bg-gray-50 dark:bg-slate-900 rounded-2xl p-6 md:p-8">

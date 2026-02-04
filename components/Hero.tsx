@@ -12,7 +12,7 @@ const Hero: React.FC = () => {
 
       <div className="relative z-10 max-w-4xl mx-auto space-y-6">
         <div className="inline-block px-4 py-1.5 rounded-full bg-blue-100 dark:bg-blue-900/30 text-blue-700 dark:text-blue-300 font-medium text-xs md:text-sm mb-2 border border-blue-200 dark:border-blue-800 shadow-sm">
-          🚀 La Promesa
+          🚀 Agencia Juan MKT
         </div>
         
         <h1 className="text-3xl sm:text-4xl md:text-6xl font-extrabold tracking-tight bg-clip-text text-transparent bg-gradient-to-r from-gray-900 via-blue-800 to-gray-900 dark:from-white dark:via-blue-400 dark:to-white pb-2 leading-[1.15]">
@@ -21,7 +21,7 @@ const Hero: React.FC = () => {
         </h1>
         
         <p className="text-base md:text-2xl text-gray-600 dark:text-gray-300 max-w-xl md:max-w-2xl mx-auto leading-relaxed px-2">
-          Una propuesta diseñada para que dejes de preocuparte por la tecnología y te enfoques en vender.
+          En Juan MKT diseñamos propuestas para que dejes de preocuparte por la tecnología y te enfoques en vender.
         </p>
       </div>
     </section>
